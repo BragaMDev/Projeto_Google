@@ -1,14 +1,14 @@
-# Clone da Página Inicial do Google
+# Google Homepage Clone
 
-Uma réplica simples e fiel da página inicial do Google, desenvolvida para praticar conceitos fundamentais de desenvolvimento web, como layout, centralização de elementos e estrutura semântica.
+A simple and accurate replica of the Google homepage, built to practice core web development concepts such as layout design, element centering, and semantic structuring.
 
-## Funcionalidades
+## Features
 
-- **Interface Fiel:** Layout idêntico ao buscador original do Google.
-- **Interatividade:** Barra de pesquisa com estado de foco, sombras e botões interativos.
-- **Cabeçalho e Rodapé:** Links de navegação superiores e rodapé com informações de localização e termos.
+- **Accurate UI:** Layout styled after the original Google search page.
+- **Interactivity:** Search bar featuring focus states, shadows, and interactive buttons.
+- **Header & Footer:** Top navigation links and a footer displaying location and utility links.
 
-## Tecnologias Utilizadas
+## Tech Stack
 
-- **HTML5:** Estruturação semântica do conteúdo.
-- **CSS3:** Estilização com Flexbox, sombras, estados `:hover` e responsividade.
+- **HTML5:** Semantic content structuring.
+- **CSS3:** Styling using Flexbox, shadows, `:hover` states, and responsiveness.
